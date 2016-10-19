@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ArtNetControllerApp", "ArtNetControllerApp\ArtNetControllerApp.cproj", "{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ArtNetControllerBooter", "ArtNetControllerBooter\ArtNetControllerBooter.cproj", "{E843C8EC-A287-4A9B-8BD1-509905C94484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		DmxControllerDebug|AVR = DmxControllerDebug|AVR
+		DmxControllerRelease|AVR = DmxControllerRelease|AVR
+		LedControllerDebug|AVR = LedControllerDebug|AVR
+		LedControllerRelease|AVR = LedControllerRelease|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.Debug|AVR.Build.0 = Debug|AVR
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.DmxControllerDebug|AVR.ActiveCfg = DmxControllerDebug|AVR
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.DmxControllerDebug|AVR.Build.0 = DmxControllerDebug|AVR
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.DmxControllerRelease|AVR.ActiveCfg = DmxControllerRelease|AVR
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.DmxControllerRelease|AVR.Build.0 = DmxControllerRelease|AVR
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.LedControllerDebug|AVR.ActiveCfg = LedControllerDebug|AVR
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.LedControllerDebug|AVR.Build.0 = LedControllerDebug|AVR
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.LedControllerRelease|AVR.ActiveCfg = LedControllerRelease|AVR
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.LedControllerRelease|AVR.Build.0 = LedControllerRelease|AVR
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.Release|AVR.ActiveCfg = Release|AVR
+		{A9EFA1EE-67D6-4411-AAD7-0C51D165C825}.Release|AVR.Build.0 = Release|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.Debug|AVR.Build.0 = Debug|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.DmxControllerDebug|AVR.ActiveCfg = DmxControllerDebug|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.DmxControllerDebug|AVR.Build.0 = DmxControllerDebug|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.DmxControllerRelease|AVR.ActiveCfg = DmxControllerRelease|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.DmxControllerRelease|AVR.Build.0 = DmxControllerRelease|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.LedControllerDebug|AVR.ActiveCfg = LedControllerDebug|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.LedControllerDebug|AVR.Build.0 = LedControllerDebug|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.LedControllerRelease|AVR.ActiveCfg = LedControllerRelease|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.LedControllerRelease|AVR.Build.0 = LedControllerRelease|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.Release|AVR.ActiveCfg = Release|AVR
+		{E843C8EC-A287-4A9B-8BD1-509905C94484}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
